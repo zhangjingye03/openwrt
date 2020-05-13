@@ -1,3 +1,6 @@
 [submodule "package/v2ray-core"]
 	path = package/v2ray-core
 	url = https://github.com/kuoruan/openwrt-v2ray.git
+[submodule "package/luci-theme-argon"]
+	path = package/luci-theme-argon
+	url = https://github.com/jerrykuku/luci-theme-argon
