@@ -28,3 +28,7 @@ TAGS*~
 git-src
 .project
 .cproject
+/*.sh
+/*.log
+/*.txt
+/.config*
