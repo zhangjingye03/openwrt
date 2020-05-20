@@ -4,3 +4,9 @@
 [submodule "package/luci-theme-argon"]
 	path = package/luci-theme-argon
 	url = https://github.com/jerrykuku/luci-theme-argon
+[submodule "package/openwrt-smartdns"]
+	path = package/openwrt-smartdns
+	url = https://github.com/pymumu/openwrt-smartdns
+[submodule "package/luci-app-smartdns"]
+	path = package/luci-app-smartdns
+	url = https://github.com/pymumu/luci-app-smartdns
