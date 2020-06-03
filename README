@@ -31,4 +31,16 @@ Sunshine!
 	Your OpenWrt Community
 	http://www.openwrt.org
 
+Self use defconfig file:
+defconfig_g-dock:	G-Dock V2.0 (P&W R619AC)
+			ipq40xx, openwrt-19.07, kernel 4.14
+			* SDHCI driver added.
 
+defconfig_d7800_es:	Netgear D7800 Engineering Sample Version
+			ipq806x, openwrt-19.07, kernel 4.14
+			* Use ath10k-ct-firmware version 1 to acheive normal performance.
+
+defconfig_wr703n:	TP-Link WR703n V1
+			ar71xx, openwrt-19.07, kernel 4.14
+			* USB functionality of ath79 target is broken.
+			* Flash memory size enlarged to 8M.
